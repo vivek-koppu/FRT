@@ -5,12 +5,12 @@ This is a web based application developed for watches
 
 **Project Link** -https://kind-island-0e2200f10.2.azurestaticapps.net
 
-**project demo video link** - https://youtu.be/3awLgaAlKFo
+**project demo video link** - 
 
 ## Azure technologies used for Project
 
 - Static web apps
-- Cloud Shell
+- Azure Health Bot
 
 ## Features and Functionalities 😃
 
@@ -27,6 +27,10 @@ This is a web based application developed for watches
 ![image](https://user-images.githubusercontent.com/105732304/209360291-adf677e2-74e7-472a-8b25-2b5cda11cd8c.png)
 ![image](https://user-images.githubusercontent.com/105732304/209360800-5508666a-a313-438d-a86f-f86856fd5fe9.png)
 ![image](https://user-images.githubusercontent.com/105732304/209360984-4cdd8b96-6f94-4ad0-9513-206a16f5f3b5.png)
+![image](https://user-images.githubusercontent.com/105732304/209554452-fdc63a0c-f4ab-48dd-8f2b-292c9fc4d275.png)
+![image](https://user-images.githubusercontent.com/105732304/209554540-c08b3b47-2bf9-476b-92cf-89972b9c7b0e.png)
+![image](https://user-images.githubusercontent.com/105732304/209554595-f8141992-4004-457c-a3b1-8c2e8d6b1d38.png)
+
 
 
    
@@ -37,6 +41,7 @@ The purpose of website is to craete an account and place an order for a watch. T
 
 ### Services -
 I have used Azure and github services to deploy a website.
+I have used Azure health bot service to create a bot to solve the user problems related to the health.
 
 
 ### Contact us -
